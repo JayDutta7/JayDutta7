@@ -18,9 +18,6 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=7F52FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=9%2B+Years+Building+Production+Mobile+Apps" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1200&color=3DDC84&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Kotlin+%C2%B7+Flutter+%C2%B7+Jetpack+Compose+%C2%B7+Clean+Architecture+%C2%B7+CI%2FCD" />
 </p>
 
