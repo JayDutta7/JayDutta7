@@ -29,7 +29,7 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="100" />
 
-I'm a results-driven **Senior Mobile App Developer** with **8.5+ years** of hands-on experience building high-performance Android and cross-platform applications. I specialize in **Java, Kotlin, Flutter, and Jetpack Compose**, with a track record of shipping scalable, user-centric apps from concept to production.
+I'm a results-driven **Senior Mobile App Developer** with **9+ years** of hands-on experience building high-performance Android and cross-platform applications. I specialize in **Java, Kotlin, Flutter, and Jetpack Compose**, with a track record of shipping scalable, user-centric apps from concept to production.
 
 &nbsp;&nbsp;🌐 &nbsp;**Explore my work →** [**jaydutta7.github.io/Portfolio**](https://jaydutta7.github.io/Portfolio/)
 
