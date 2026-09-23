@@ -124,7 +124,7 @@ I'm a results-driven **Senior Mobile App Developer** with **9+ years** of hands-
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏛️_Architecture-MVVM_%7C_MVI_%7C_Clean_Architecture-7F52FF?style=for-the-badge&labelColor=1a1b27" />&nbsp;
+  <img src="https://img.shields.io/badge/🏛️_Architecture-MVVM_%7C_MVP%7C_MVI_%7C_Clean_Architecture-7F52FF?style=for-the-badge&labelColor=1a1b27" />&nbsp;
   <img src="https://img.shields.io/badge/⚡_Methodology-Agile_%2F_Scrum-3DDC84?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
