@@ -61,9 +61,6 @@ I'm a results-driven **Senior Mobile App Developer** with **9+ years** of hands-
 
 <!-- IMPACT HIGHLIGHTS -->
 <img src="https://img.shields.io/badge/9+-Years_Experience-7F52FF?style=flat-square&labelColor=1a1b27" /><br/>
-<img src="https://img.shields.io/badge/10+-Production_Apps-3DDC84?style=flat-square&labelColor=1a1b27" /><br/>
-<img src="https://img.shields.io/badge/200+-Daily_Users_Served-02569B?style=flat-square&labelColor=1a1b27" /><br/>
-<img src="https://img.shields.io/badge/50K+-Community_Members-FFCA28?style=flat-square&labelColor=1a1b27" />
 
 </td>
 </tr>
