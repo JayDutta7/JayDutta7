@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=8.5%2B+Years+Building+Production+Mobile+Apps;Kotlin+%7C+Flutter+%7C+Jetpack+Compose+%7C+Clean+Arch;Leading+Agile+Teams+%26+Shipping+at+Scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=9%2B+Years+Building+Production+Mobile+Apps;Kotlin+%7C+Flutter+%7C+Jetpack+Compose+%7C+Clean+Arch;Leading+Agile+Teams+%26+Shipping+at+Scale" />
 </p>
 
 <p align="center">
