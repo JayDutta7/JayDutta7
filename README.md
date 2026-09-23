@@ -2,6 +2,7 @@
 <h3 align="center">Senior Mobile App Developer · Android & Cross-Platform</h3>
 
 <p align="center">
+  <a href="https://jaydutta7.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-2563EB?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jayajit-dutta-7124b9125/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jayajit1989@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Serampore%2C%20India-informational" />
@@ -13,6 +14,7 @@
 
 I'm a results-driven **Senior Mobile App Developer** with **8.5+ years** of hands-on experience building high-performance Android and cross-platform applications. I specialize in **Java, Kotlin, Flutter, and Jetpack Compose**, with a track record of shipping scalable, user-centric apps from concept to production — and leading agile teams along the way.
 
+- 🌐 **Live Portfolio**: Explore my interactive showcase at [jaydutta7.github.io/Portfolio](https://jaydutta7.github.io/Portfolio/)
 - 🔭 Currently architecting Android apps at **Shyam Steel Industries Ltd.**
 - 🛠️ Focused on **Kotlin, Jetpack Compose, Clean Architecture**, and **CI/CD**
 - 🌱 Expanding cross-platform reach with **Flutter**
@@ -56,6 +58,7 @@ I'm a results-driven **Senior Mobile App Developer** with **8.5+ years** of hand
 
 | Project | Description |
 |---|---|
+| **[Interactive Portfolio](https://jaydutta7.github.io/Portfolio/)** | Multi-platform Flutter & Web showcase app featuring custom shaders, sensor physics, and live telemetry • [Live Site](https://jaydutta7.github.io/Portfolio/) |
 | **Retail CRM** (Shyam Steel) | Field CRM app in Kotlin with lead management, GPS tracking, and offline-first architecture for enterprise sales teams |
 | **Ghareka & Ghareka PMT** | Eastern India's first one-stop home-building platform, paired with a field CRM featuring site/project creation and offline sync |
 | **Pariwar App** | Dealer/Distributor/Sub-Dealer collaboration platform with real-time inventory, payments, and loyalty rewards (Firebase + Kotlin) |
@@ -89,6 +92,7 @@ I'm a results-driven **Senior Mobile App Developer** with **8.5+ years** of hand
 ### 📫 Let's Connect
 
 <p align="center">
+  <a href="https://jaydutta7.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jayajit-dutta-7124b9125/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jayajit1989@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
